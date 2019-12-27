@@ -5,6 +5,8 @@
   "scripts": {
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "ask-sdk": "^2.7.0"
+  },
   "devDependencies": {}
 }
