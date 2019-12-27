@@ -1,3 +1,3 @@
 # alexa-test
 
-testing a new alexa skill
+Testing a new Alexa Skill
